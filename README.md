@@ -18,7 +18,7 @@ Projeto feito com base no curso de HTML e CSS do canal Curso em Video <br/>
 <br>
 
 <p align="center">
-  <img alt="portifólio" src="./imagens/preview.png" width="100%">
+  <img alt="projeto do celular" src="./imagens/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
